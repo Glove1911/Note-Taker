@@ -26,9 +26,9 @@ To install dependencies run the following command:
 
 
 ## Usage
-Run the following command at the root of your project and answer the prompted questions:
+Run the following command at the CLI:
 ```
-Run the following command in the CLI
+node server.js
 ```
 
 
