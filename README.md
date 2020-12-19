@@ -17,8 +17,7 @@
  ## Description
  An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
  
- <img src = "https://github.com/Glove1911/Note-Taker/blob/main/Develop/public/assets/js/CA3E535C-6442-44ED-BBC8-5EB1B9A54D13_1_105_c.jpeg">
-
+ <img src = "https://github.com/Glove1911/Note-Taker/blob/main/public/assets/js/CA3E535C-6442-44ED-BBC8-5EB1B9A54D13_1_105_c.jpeg?raw=true">
 
 ## Installation
 To install dependencies run the following command: 
