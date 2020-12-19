@@ -8,7 +8,7 @@ const fs = require("fs");
 // Sets up the Express App
 // =============================================================
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 function savedNotes() {
 
