@@ -19,6 +19,8 @@
  
  <img src = "https://github.com/Glove1911/Note-Taker/blob/main/public/assets/js/CA3E535C-6442-44ED-BBC8-5EB1B9A54D13_1_105_c.jpeg?raw=true">
 
+ The deployed application can be found [here.](https://warm-falls-75207.herokuapp.com/)
+
 ## Installation
 To install dependencies run the following command: 
 ```
